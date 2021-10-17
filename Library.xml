@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book category="technical">
+        <title lang="en">Smart Homes</title>
+        <isbn>123-1-12-123456-1</isbn>
+        <author>Tech Wizard</author>
+    </book>
+    <book category="technical">
+        <title lang="en">Smarter Homes</title>
+        <isbn>321-2-23-234561-2</isbn>
+        <author>Tech Supremo</author>
+    </book>
+    <book category="cookery">
+        <title lang="en">Simply Delicious</title>
+        <isbn>213-3-31-345612-3</isbn>
+        <author>Mary Bun</author>  
+    </book>
+    <book category="cookery">
+        <title lang="en">Even More Delicious</title>
+        <isbn>214-4-41-456123-4</isbn>
+        <author>Tommy Curry</author>  
+    </book>
+</library>
